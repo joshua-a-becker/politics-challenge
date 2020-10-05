@@ -1,0 +1,1 @@
+export const networks = new Mongo.Collection("networks");

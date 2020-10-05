@@ -1,0 +1,11 @@
+node_modules/
+.meteor/
+packages/
+settings.json
+production.json
+prod.json
+staging.json
+development.json
+dev.json
+local.json
+deployment-commands.txt
